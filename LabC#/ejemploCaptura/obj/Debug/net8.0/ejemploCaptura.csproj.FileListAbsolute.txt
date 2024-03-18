@@ -1,0 +1,15 @@
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\bin\Debug\net8.0\ejemploCaptura.exe
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\bin\Debug\net8.0\ejemploCaptura.deps.json
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\bin\Debug\net8.0\ejemploCaptura.runtimeconfig.json
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\bin\Debug\net8.0\ejemploCaptura.dll
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\bin\Debug\net8.0\ejemploCaptura.pdb
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\obj\Debug\net8.0\ejemploCaptura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\obj\Debug\net8.0\ejemploCaptura.AssemblyInfoInputs.cache
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\obj\Debug\net8.0\ejemploCaptura.AssemblyInfo.cs
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\obj\Debug\net8.0\ejemploCaptura.csproj.CoreCompileInputs.cache
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\obj\Debug\net8.0\ejemploCaptura.sourcelink.json
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\obj\Debug\net8.0\ejemploCaptura.dll
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\obj\Debug\net8.0\refint\ejemploCaptura.dll
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\obj\Debug\net8.0\ejemploCaptura.pdb
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\obj\Debug\net8.0\ejemploCaptura.genruntimeconfig.cache
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\ejemploCaptura\obj\Debug\net8.0\ref\ejemploCaptura.dll

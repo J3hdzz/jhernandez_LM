@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
 using namespace std;
-int main() {
+int main()
+ {
     int entero;
     float flotante;
     char caracter;
@@ -18,7 +19,7 @@ int main() {
     cin >> caracter;
 
     cout << "Ingrese una cadena de caracteres: ";
-    cin.ignore(); // ignorar el '\n' dejado por// cin >> caractergetline(cin, cadena); // Lee una línea de texto desde la //entrada estándar(cin) y la almacena en la variable cadena
+   // cin.ignore(); // ignorar el '\n' dejado por// cin >> caractergetline(cin, cadena); // Lee una línea de texto desde la //entrada estándar(cin) y la almacena en la variable cadena
     
     return 0;
     

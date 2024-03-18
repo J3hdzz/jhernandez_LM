@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhernandez9353\\Documents\\COMP2315\\LabC#\\HelloWorld.cs\\HelloWorld.cs.csproj": {}
+    "C:\\Users\\jhernandez9353\\Documents\\COMP2315\\LabC#\\ejemploCaptura\\ejemploCaptura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhernandez9353\\Documents\\COMP2315\\LabC#\\HelloWorld.cs\\HelloWorld.cs.csproj": {
+    "C:\\Users\\jhernandez9353\\Documents\\COMP2315\\LabC#\\ejemploCaptura\\ejemploCaptura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhernandez9353\\Documents\\COMP2315\\LabC#\\HelloWorld.cs\\HelloWorld.cs.csproj",
-        "projectName": "HelloWorld.cs",
-        "projectPath": "C:\\Users\\jhernandez9353\\Documents\\COMP2315\\LabC#\\HelloWorld.cs\\HelloWorld.cs.csproj",
+        "projectUniqueName": "C:\\Users\\jhernandez9353\\Documents\\COMP2315\\LabC#\\ejemploCaptura\\ejemploCaptura.csproj",
+        "projectName": "ejemploCaptura",
+        "projectPath": "C:\\Users\\jhernandez9353\\Documents\\COMP2315\\LabC#\\ejemploCaptura\\ejemploCaptura.csproj",
         "packagesPath": "C:\\Users\\jhernandez9353\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhernandez9353\\Documents\\COMP2315\\LabC#\\HelloWorld.cs\\obj\\",
+        "outputPath": "C:\\Users\\jhernandez9353\\Documents\\COMP2315\\LabC#\\ejemploCaptura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhernandez9353\\AppData\\Roaming\\NuGet\\NuGet.Config"
