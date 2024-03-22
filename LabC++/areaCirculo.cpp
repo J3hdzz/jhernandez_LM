@@ -6,7 +6,7 @@ int main()
 {
     //Definicion de variables
     double area, radio;  // Es lo mismso que añadir double radio;
-    const double PI = 3.14 // Identificador de constante
+    const double PI = 3.14; // Identificador de constante
 
     cout <<"Ingrese la medida del radio: ";
     cin >> radio;
