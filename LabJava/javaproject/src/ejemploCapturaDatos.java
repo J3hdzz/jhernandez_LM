@@ -1,7 +1,7 @@
 package LabJava.javaproject.src;
 import java.util.Scanner;
-public class Main {
-    public static void main(String[] args) {
+public class ejemploCapturaDatos {
+    public static void ejemploCapturaDatos(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Ingrese un número entero: ");

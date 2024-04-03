@@ -8,6 +8,27 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "App",
+            "projectName": "COMP2315_237783fa"
+        },
+        {
+            "type": "java",
+            "name": "EvaluacionEstudiante",
+            "request": "launch",
+            "mainClass": "LabJava.javaproject.src.EvaluacionEstudiante",
+            "projectName": "COMP2315_237783fa"
+        },
+        {
+            "type": "java",
+            "name": "act1",
+            "request": "launch",
+            "mainClass": "LabJava.javaproject.src.act1",
+            "projectName": "COMP2315_237783fa"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "LabJava.javaproject.src.App",
             "projectName": "COMP2315_237783fa"
         },
