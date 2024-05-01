@@ -1,0 +1,15 @@
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\bin\Debug\net8.0\temperaturadowhile.exe
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\bin\Debug\net8.0\temperaturadowhile.deps.json
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\bin\Debug\net8.0\temperaturadowhile.runtimeconfig.json
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\bin\Debug\net8.0\temperaturadowhile.dll
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\bin\Debug\net8.0\temperaturadowhile.pdb
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\obj\Debug\net8.0\temperaturadowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\obj\Debug\net8.0\temperaturadowhile.AssemblyInfoInputs.cache
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\obj\Debug\net8.0\temperaturadowhile.AssemblyInfo.cs
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\obj\Debug\net8.0\temperaturadowhile.csproj.CoreCompileInputs.cache
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\obj\Debug\net8.0\temperaturadowhile.sourcelink.json
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\obj\Debug\net8.0\temperaturadowhile.dll
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\obj\Debug\net8.0\refint\temperaturadowhile.dll
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\obj\Debug\net8.0\temperaturadowhile.pdb
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\obj\Debug\net8.0\temperaturadowhile.genruntimeconfig.cache
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\temperaturadowhile\obj\Debug\net8.0\ref\temperaturadowhile.dll

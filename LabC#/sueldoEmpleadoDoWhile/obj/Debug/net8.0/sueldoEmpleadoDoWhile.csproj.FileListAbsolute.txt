@@ -1,0 +1,15 @@
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\bin\Debug\net8.0\sueldoEmpleadoDoWhile.exe
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\bin\Debug\net8.0\sueldoEmpleadoDoWhile.deps.json
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\bin\Debug\net8.0\sueldoEmpleadoDoWhile.runtimeconfig.json
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\bin\Debug\net8.0\sueldoEmpleadoDoWhile.dll
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\bin\Debug\net8.0\sueldoEmpleadoDoWhile.pdb
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\obj\Debug\net8.0\sueldoEmpleadoDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\obj\Debug\net8.0\sueldoEmpleadoDoWhile.AssemblyInfoInputs.cache
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\obj\Debug\net8.0\sueldoEmpleadoDoWhile.AssemblyInfo.cs
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\obj\Debug\net8.0\sueldoEmpleadoDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\obj\Debug\net8.0\sueldoEmpleadoDoWhile.sourcelink.json
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\obj\Debug\net8.0\sueldoEmpleadoDoWhile.dll
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\obj\Debug\net8.0\refint\sueldoEmpleadoDoWhile.dll
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\obj\Debug\net8.0\sueldoEmpleadoDoWhile.pdb
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\obj\Debug\net8.0\sueldoEmpleadoDoWhile.genruntimeconfig.cache
+C:\Users\jhernandez9353\Documents\COMP2315\LabC#\sueldoEmpleadoDoWhile\obj\Debug\net8.0\ref\sueldoEmpleadoDoWhile.dll
